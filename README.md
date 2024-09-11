@@ -37,6 +37,7 @@ The agent receives a reward of +1 for reaching the goal state (G). The agent rec
 # Graphical Representation
 <img src="https://github.com/user-attachments/assets/62aca89b-7644-49e1-9bf8-0b5103f61be0" width=50%>
 <br>
+
 ## POLICY ITERATION ALGORITHM
 - The policy iteration algorithm is a dynamic programming algorithm for finding the optimal policy in a Markov decision process (MDP). The algorithm works by iteratively evaluating and improving a policy until convergence.
 
